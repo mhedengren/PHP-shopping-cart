@@ -1,0 +1,236 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    background-color: #f4f4f4;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 18px;
+}
+
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+h5{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    width: 70px;
+    margin-top: -8px;
+}
+
+.logotype {
+    color:black;
+  
+}
+
+.logotype:hover {
+    color:black;
+    font-style: none;
+    text-decoration: none;
+  
+}
+
+header {
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+}
+
+.navbar{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.navbar ul {
+    list-style:none;
+    display:inline-block;
+    padding-top: 15px;
+    padding-left: 0px;
+   
+}
+
+.navbar ul a {
+    color:white;
+    background-color: darkgreen;
+    border-radius: 5px;
+    padding: 7px 15px;
+}
+
+.login_button{
+    color:white;
+    background-color: #193147;
+    border-radius: 5px;
+    padding: 4px 17px;
+    margin-top: 25px;
+}
+
+.shopping_cart ul {
+    margin-top: 25px;
+    padding:0px;
+}
+
+.grey_button {
+    color:white;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 4px 5px;
+}
+
+.grey_button a:hover {
+    color:white;
+    background-color: grey;
+    border-radius: 5px;
+    padding: 4px 5px;
+}
+
+
+.blue_button {
+    color:white;
+    background-color: #193147;
+    border-radius: 5px;
+    padding: 4px 10px;
+}
+
+.blue_button a:hover {
+    color:white;
+    background-color: #193147;
+    border-radius: 5px;
+    padding: 4px 10px;
+}
+
+.blue_button_complete_order {
+    color:white;
+    background-color: #193147;
+    border-radius: 5px;
+    padding: 10px 15px;
+  
+}
+
+.blue_button_complete_order:hover {
+    color:white;
+    background-color: #193147;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.shopping_cart p {
+    margin: 0px;
+    padding:0px;
+}
+  
+form {
+    margin: 0 0;
+    margin-bottom: 30px;
+    background-color:transparent;
+    border-radius: 10px;
+}
+
+.reg-box {
+    margin-top: 30px;
+}
+
+.card {
+    border-radius: 20px;
+    margin-bottom: 40px;
+    padding: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+.inputcard{
+    margin-bottom: 25px;
+}
+
+.card img {
+    width: 120px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.order_confirmation p {
+    padding: 0px;
+    margin: 0px;
+ }
+
+.produktnamn {
+    font-weight: bold;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+}
+
+.cart_button {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.cart_button:hover {
+    background-color:darkgreen;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.checkout_button {
+    background-color: #193147;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.checkout_button:hover {
+    background-color:#193147;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.continue_shopping {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+}
+
+.continue_shopping:hover {
+    background-color:darkgreen;
+    color: white;
+    padding: 10px;
+}
+
+.highlight_sum {
+    color:green;
+    font-weight: bold;
+}
+
+.big_thanks_text{
+    margin-top: 50px;
+    font-size: 20vw;
+}
+
+.checkout_hello {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 5px;
+}
+
+.free_shipping {
+   font-size: 16px;
+   color: navy;
+}
+
